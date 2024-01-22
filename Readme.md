@@ -1,5 +1,5 @@
 # Code & Data for GDGCN
-This is an implementation of GDGCN. Following this code, you can easily reproduce GDGCN and conduct detailed futher ablation experiments. This link is anonymous currently and will be made public if paper is accepted. At that time, more detailed questions about this work will be welcomed. 
+This is an implementation of GDGCN. Following this code, you can easily reproduce GDGCN and conduct detailed further ablation experiments. This link is anonymous currently and will be made public if the paper is accepted. At that time, more detailed questions about this work will be welcomed. 
 
 # Environment
 - Python 3.6.12
